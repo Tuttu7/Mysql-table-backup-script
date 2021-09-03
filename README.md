@@ -2,6 +2,6 @@
 
 #### Usage :
 ```
-./table_spillter.sh dumpfile  table name
+./table_splitter.sh dumpfile  table name
 ```
 
